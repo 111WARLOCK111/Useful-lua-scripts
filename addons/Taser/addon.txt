@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+  "name" "Gmod 13 Taser"
+	"version" "1.0"
+	"author_name" "Originaly made by fub4r, ported by !!!WARLOCK!!!"
+	"author_email" "Contact by steam community"
+	"info" "Taser!!!"
+	"override" "0"
+}
