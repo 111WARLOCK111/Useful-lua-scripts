@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name" "Smart Welding"
+	"version" "1.0"
+	"author_name" "!!!WARLOCK!!!"
+	"author_email" "steam community"
+	"info" "Weld like a smart builder!"
+	"override" "0"
+}
